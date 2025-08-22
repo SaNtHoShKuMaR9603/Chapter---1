@@ -3,7 +3,7 @@ import os
 # Define the path of the directory you want to list.
 # Using '.' represents the current directory.
 # You can change this to any valid path, e.g., 'C:\\Users\\YourUser' or '/home/YourUser'
-directory_path = 'c:\\Users\\NIT WARANGAL\\Desktop\\PYTHON'
+directory_path = r'c:\Users\NIT WARANGAL\Desktop\PYTHON'
 
 print(f"🔍 Listing contents of: {os.path.abspath(directory_path)}\n" + "-"*30)
 
