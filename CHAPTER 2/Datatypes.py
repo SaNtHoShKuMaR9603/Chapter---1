@@ -6,5 +6,6 @@ e = [1, 2, 3, 4] #list
 f = (1, 2, 3) #tuple
 g = { "name": "Alice", "age": 30 } #dictionary
 h = {1, 2, 3} #set
+i = None #NoneType
 print(c)  # <class 'int'>
-print(type(b))  # <class 'float'>
+print(type(b))  # <class 'float'> 
