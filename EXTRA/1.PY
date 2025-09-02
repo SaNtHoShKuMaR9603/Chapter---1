@@ -1,7 +1,7 @@
 import turtle
 t = turtle.Turtle()
 t.speed(1)
-t.color("blue")
+t.color("red")
 t.pensize(5)
 turtle.bgcolor("black")
 turtle.title("Star Pattern")
